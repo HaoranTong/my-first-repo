@@ -9,8 +9,8 @@ print(secret_number)
 # 当用户没有猜对时继续循环
 while guess != secret_number:
     # 获取用户输入
-    guess = int(input("请输入你猜的数字（1到100之间）(或输入q退出)："))
-    if guess == "q":
+    guess = int(input("请输入你猜的数字（1到100之间）(或输入0退出)："))
+    if guess == :
         break
     if guess < secret_number:
         print("你猜的数字太小了！")
