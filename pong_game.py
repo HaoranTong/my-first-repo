@@ -22,8 +22,8 @@ RED = (255, 0, 0)
 ball_radius = 10
 ball_x = WIDTH // 2
 ball_y = HEIGHT // 2
-ball_speed_x = 5
-ball_speed_y = 5
+ball_speed_x = 8
+ball_speed_y = 8
 
 # 板条的属性
 paddle_width = 100
