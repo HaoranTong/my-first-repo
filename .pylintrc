@@ -1,0 +1,2 @@
+[MASTER]
+init-hook='import sys; sys.path.append("e:/python_study/study_py_env/Lib/site-packages")'
